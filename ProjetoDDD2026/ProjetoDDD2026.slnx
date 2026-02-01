@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/1 - Apresentaçao/">
+    <Project Path="WebApi/WebApi.csproj" />
+  </Folder>
+  <Folder Name="/2 - Dominio/">
+    <Project Path="Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/3 - InfraEstrutura/">
+    <Project Path="Infra/Infra.csproj" />
+  </Folder>
+  <Folder Name="/4 - Entidades/">
+    <Project Path="Entities/Entities.csproj" />
+  </Folder>
+  <Folder Name="/5 - Helpers/" />
+</Solution>

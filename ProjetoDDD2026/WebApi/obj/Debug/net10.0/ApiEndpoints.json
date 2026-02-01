@@ -1,0 +1,256 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.PesquisasController",
+    "Method": "AddPesquisa",
+    "RelativePath": "api/AddPesquisa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pesquisa",
+        "Type": "Entities.Entidades.Pesquisa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.RespostaController",
+    "Method": "AddRespostaPesquisa",
+    "RelativePath": "api/AddRespostaPesquisa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "respostasEntrevista",
+        "Type": "Entities.EntidadesNoMap.RespostasEntrevista",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "AdicionarPesquisaOpcoes",
+    "RelativePath": "api/AdicionarPesquisaOpcoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "perguntaOpcoesDTO",
+        "Type": "Entities.EntidadesNoMap.PerguntaOpcoesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "AtualizarPesquisaOpcoes",
+    "RelativePath": "api/AtualizarPesquisaOpcoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "perguntaOpcoesDTO",
+        "Type": "Entities.EntidadesNoMap.PerguntaOpcoesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EmpresasController",
+    "Method": "CreateEmpresa",
+    "RelativePath": "api/CreateEmpresa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "Entities.Entidades.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "DeletePergunta",
+    "RelativePath": "api/DeletePergunta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PesquisasController",
+    "Method": "DeletePesquisa",
+    "RelativePath": "api/DeletePesquisa",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EmpresasController",
+    "Method": "GetAllEmpresas",
+    "RelativePath": "api/GetAllEmpresas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "GetAllPerguntas",
+    "RelativePath": "api/GetAllPerguntas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PesquisasController",
+    "Method": "GetAllPesquisa",
+    "RelativePath": "api/GetAllPesquisa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EmpresasController",
+    "Method": "GetEmpresaById",
+    "RelativePath": "api/GetEmpresaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "GetPerguntaById",
+    "RelativePath": "api/GetPerguntaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PesquisasController",
+    "Method": "GetPesquisaById",
+    "RelativePath": "api/GetPesquisaById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "ObterPerguntaComOpcoes",
+    "RelativePath": "api/ObterPerguntaComOpcoes/{idPergunta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPergunta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.EmpresasController",
+    "Method": "UpdateEmpresa",
+    "RelativePath": "api/UpdateEmpresa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "Entities.Entidades.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PerguntaController",
+    "Method": "UpdatePergunta",
+    "RelativePath": "api/UpdatePergunta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Pergunta",
+        "Type": "Entities.Entidades.Pergunta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PesquisasController",
+    "Method": "UpdatePesquisa",
+    "RelativePath": "api/UpdatePesquisa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pesquisa",
+        "Type": "Entities.Entidades.Pesquisa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,14 @@
+C:\Projeto2026\ProjetoDDD2026\Entities\bin\Debug\net10.0\Entities.deps.json
+C:\Projeto2026\ProjetoDDD2026\Entities\bin\Debug\net10.0\Entities.runtimeconfig.json
+C:\Projeto2026\ProjetoDDD2026\Entities\bin\Debug\net10.0\Entities.dll
+C:\Projeto2026\ProjetoDDD2026\Entities\bin\Debug\net10.0\Entities.pdb
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.csproj.AssemblyReference.cache
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.dll
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\refint\Entities.dll
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.pdb
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\Entities.genruntimeconfig.cache
+C:\Projeto2026\ProjetoDDD2026\Entities\obj\Debug\net10.0\ref\Entities.dll

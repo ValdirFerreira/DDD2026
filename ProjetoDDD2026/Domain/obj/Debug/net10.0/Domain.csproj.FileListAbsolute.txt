@@ -1,0 +1,17 @@
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Domain.runtimeconfig.json
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Domain.dll
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.dll
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.genruntimeconfig.cache
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Entities.dll
+C:\Projeto2026\ProjetoDDD2026\Domain\bin\Debug\net10.0\Entities.pdb
+C:\Projeto2026\ProjetoDDD2026\Domain\obj\Debug\net10.0\Domain.csproj.Up2Date
